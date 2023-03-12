@@ -1,0 +1,56 @@
+/* Document CSS*/
+
+body {
+    background-color: #000;
+    
+}
+
+
+#header {
+    background-color: red;
+    color: black;
+    text-align: center;
+    padding: 0.1px;
+
+}
+
+#nav {
+    margin-top: 40px;
+    width: 160px;
+    float: left;
+    border-radius: 5px;
+    background-color: #151515;
+    color: #969696;
+    
+}
+
+#main {
+    margin-top: 40px;
+    width: 1100px;
+    float: right;
+    color: #fff;
+
+
+}
+
+.h2-home-page {
+    margin-top: 40px;
+
+}
+
+.h2-negative-part-home-page {
+    margin-top: 40px;
+}
+
+.h2-about-me-home-page {
+    margin-top: 40px;
+}
+
+#footer {
+    clear: both;
+    background-color: red;
+    text-align: center;
+    margin-top: 530px;
+    padding: 12px;
+    
+}
